@@ -143,4 +143,12 @@
 .box_21 {
   font-size:12px;
 }
+.label1 {
+  font-size:12px;
+  text-align:left;
+}
+.box_12 {
+  font-size:12px;
+  text-align:left;
+}
 textarea, select, input, button, div, svg { outline: none; }
